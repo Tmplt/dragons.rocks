@@ -1,0 +1,27 @@
+#main{
+    margin:5% 15%;
+    font-family:sans;
+    text-align:justify;
+    background-image: url(background.png)
+}li{
+    margin-bottom:1em;
+}footer{
+    border-top:2px solid;
+}#hlink{
+    float:right;
+    padding-top:18px;
+}#runner{
+    float:middle;
+}
+a {
+    color:#e9e9e9;
+    text-decoration:none;
+}
+
+a:hover {
+    color: #1e1e1e;
+    background-color: #e9e9e9;
+}
+p,h2,h1,ul,li,footer {
+    color: #a7a7a7;
+}
